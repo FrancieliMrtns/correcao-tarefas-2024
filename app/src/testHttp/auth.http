@@ -1,10 +1,10 @@
-@baseUrl = https://8080-marcoweb-correcaotarefa-awujf9hf4c8.ws-us115.gitpod.io
+@baseUrl = https://8080-francielimr-correcaotar-fnic3sd4rkb.ws-us116.gitpod.io/
 
 ###
 POST {{baseUrl}}/auth
 Content-Type: application/json
 
 {
-    "nomeDeUsuario": "admin",
-    "senha": "admin"
+    "nomeDeUsuario": "usuario",
+    "senha": "user"
 }

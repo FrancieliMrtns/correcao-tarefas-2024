@@ -1,5 +1,5 @@
 @baseUrl = https://8080-marcoweb-correcaotarefa-awujf9hf4c8.ws-us115.gitpod.io
-@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJBUEkgVGFyZWZhcyIsInN1YiI6ImFkbWluIiwiZXhwIjoxNzI1MzE0OTI0fQ.m5UFvnv-0ZPCuqQ8LlYF-L7Z0e6W-7trdhEIC18eA-E
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJBUEkgVGFyZWZhcyIsInN1YiI6InVzdWFyaW8iLCJleHAiOjE3MjU0MDE5MDN9.zo0JRO_1R1-iIXIIwygokfsdBHyOVnA5CWPB4JOFk60
 
 ###
 GET {{baseUrl}}/tarefas
